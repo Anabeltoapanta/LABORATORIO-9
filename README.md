@@ -52,11 +52,13 @@ Objetivos específicoso
   
 </div>
 
-**4.RESPUESTAS A INTERROGANTES**
-
-REQUISITOS PREVIOS.
+3.1.REQUISITOS PREVIOS.
 
 Investigue: el concepto de fasor en su forma rectangular y polar. Así m
+
+
+**4.RESPUESTAS A INTERROGANTES**
+
 
 
 **5 VIDEO** 
