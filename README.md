@@ -40,6 +40,7 @@ Objetivos específicoso
 
 **2.MARCO TEÓRICO**
 
+![](https://github.com/Anabeltoapanta/LABORATORIO-9/blob/main/Fasores.jpeg)
 
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
