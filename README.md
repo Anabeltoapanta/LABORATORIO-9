@@ -54,6 +54,11 @@ Objetivos específicoso
 
 **4.RESPUESTAS A INTERROGANTES**
 
+REQUISITOS PREVIOS.
+
+Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su
+representación gráfica.
+
 
 **5 VIDEO** 
 
