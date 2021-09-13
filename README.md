@@ -38,11 +38,11 @@ Objetivos específicoso
 
 
 
-# 2 MARCO TEÓRICO
+**2.MARCO TEÓRICO**
 
 
 
-# 3 MATERIAL Y EQUIPO REQUERIDO
+**3.MATERIAL Y EQUIPO REQUERIDO**
 
 <div align="center">
      
