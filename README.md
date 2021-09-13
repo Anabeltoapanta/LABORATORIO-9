@@ -40,11 +40,11 @@ Objetivos específicos
 **2.MARCO TEÓRICO**
 
 
-Los fasores son vectores rotatorios, cuya magnitud en el eje vertical se usa para representar las cantidades que varían en forma sinusoidal; los fasores giran a velocidad angular de w rad/s de forma anti horaria, para lo cual tenemos α=wt y su proyección vertical V_m senωt, si se designa esta proyección como altura se obtiene 〖v=V〗_m senωt
+Los fasores son vectores rotatorios, cuya magnitud en el eje vertical se usa para representar las cantidades que varían en forma sinusoidal; los fasores giran a velocidad angular de w rad/s de forma anti horaria, para lo cual tenemos α=wt y su proyección vertical V_m senωt, si se designa esta proyección como altura se obtiene V=Vmsenωt
  
 ![image](https://user-images.githubusercontent.com/85134094/133105265-9e5d644c-94e6-4e21-befb-7a707f828279.png)
 
-** Onda seno desplazadas **
+**Onda seno desplazadas**
 
 Los fasores se usan para representar las formas de onda desplazadas. 
 (Robbins & Miller, n.d.), 
