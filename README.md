@@ -42,7 +42,7 @@ Objetivos específicoso
 
 
 
-**3.MATERIAL Y EQUIPO REQUERIDO**
+**3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
 <div align="center">
      
@@ -52,7 +52,7 @@ Objetivos específicoso
   
 </div>
 
-**4 EXPLICACIÓN DEL PROCEDIMIENTO**
+**4.RESPUESTAS A INTERROGANTES**
 
 
 **5 VIDEO** 
