@@ -59,7 +59,15 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así m
 
 **4.RESPUESTAS A INTERROGANTES**
 
+4.1.Transforme a su forma polar:
 
+4.2.Transforme a su forma rectangular:
+
+4.3.Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar.
+
+4.4.Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
 
 **5 VIDEO** 
 
