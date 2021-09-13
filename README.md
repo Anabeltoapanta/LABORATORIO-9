@@ -56,7 +56,7 @@ Algunas veces los voltajes y las corrientes se expresan en términos de cos wt e
 
 ![image](https://user-images.githubusercontent.com/85134094/133105515-338c15ff-4c2d-43c9-b34a-fb66925c0757.png)
 
-! [] (https://github.com/Anabeltoapanta/LABORATORIO-9/blob/main/Fasores.jpeg)
+![](https://github.com/Anabeltoapanta/LABORATORIO-9/blob/main/Fasores.jpeg)
 
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
