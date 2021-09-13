@@ -97,6 +97,11 @@ Y como ejemplo tenemos:
 
 ![image](https://user-images.githubusercontent.com/85134094/133108735-688149cf-7783-4de0-9e17-e451e49eb5c8.png)
 
+![image](https://user-images.githubusercontent.com/85134094/133113497-7a60f337-4c3a-4d46-9a31-7564e9e9c56c.png)
+
+![image](https://user-images.githubusercontent.com/85134094/133113510-d5083236-cb8c-4070-8d3a-594cf1f3a1e2.png)
+
+
 **4.RESPUESTAS A INTERROGANTES**
 
 4.1.Transforme a su forma polar:
