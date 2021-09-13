@@ -26,11 +26,9 @@ Ing. Darwin Omar Alulema Flores
 
 **1 OBJETIVOS**
 
-
-
 Objetivo general
 
-
+* Formular los procesos solicitados en el laboratorio utilizando los procesos aritméticos aprendidos en clase, mediante lo investigado sobre los fasores en forma polar y rectangular.
 
 Objetivos específicoso
 
