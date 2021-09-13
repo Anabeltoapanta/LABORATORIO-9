@@ -90,6 +90,22 @@ d) -6 – 3.2 j
 
 4.2.Transforme a su forma rectangular:
 
+a)	36 | -10° =
+ 
+![image](https://user-images.githubusercontent.com/85134094/133018361-392d4da7-9729-4d82-9ed8-c45da768210f.png)
+
+b)	28.7 | 135° =
+ 
+![image](https://user-images.githubusercontent.com/85134094/133018335-b9b8d3d8-bb03-4510-9962-86f771fb599e.png)
+
+c)	11.2 | 28° =
+
+![image](https://user-images.githubusercontent.com/85134094/133018304-2a4f8f2a-a71b-4a3c-9d3d-93e7cec3565e.png)
+
+d)	45 | -117.9° =
+
+![image](https://user-images.githubusercontent.com/85134094/133018268-fb247f81-f4d3-44ef-bdea-7451dbc03d85.png)
+
 4.3.Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
 
