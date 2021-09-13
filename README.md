@@ -54,7 +54,7 @@ Objetivos específicoso
 
 3.1.REQUISITOS PREVIOS.
 
-Investigue: el concepto de fasor en su forma rectangular y polar. Así m
+Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su representación gráfica.
 
 
 **4.RESPUESTAS A INTERROGANTES**
