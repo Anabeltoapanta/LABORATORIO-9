@@ -73,6 +73,29 @@ Algunas veces los voltajes y las corrientes se expresan en términos de cos wt e
 
 Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su representación gráfica.
 
+Fasores en forma Polar:
+
+Los fasores pueden escribirse como un módulo y un ángulo, a esto llamamos representación polar, para esto necesitamos algunos factores como tensión y ángulo, lo cual se puede expresar de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/85134094/133108526-66628794-5cfc-4a7a-bb9d-596ffe504dfd.png)
+
+Para un ejemplo de una tensión de 15V y un ángulo de 30°
+ 
+ ![image](https://user-images.githubusercontent.com/85134094/133108577-6efeb3b4-805c-494a-aa7a-d15036a2ef11.png)
+
+ ![image](https://user-images.githubusercontent.com/85134094/133108619-20389e2a-0a45-4a04-b35f-d9da4e9dbff9.png)
+
+Fasores en forma rectangular:
+
+Esta representación es de la forma a+jb siendo a la parte real y b la parte imaginaria, de esta forma se selecciona sus componentes rectangulares como: 
+
+![image](https://user-images.githubusercontent.com/85134094/133108679-68b0531c-152b-428e-a69b-e83da8c33685.png)
+ 
+Y como ejemplo tenemos: 
+
+![image](https://user-images.githubusercontent.com/85134094/133108722-6fcbd7a3-2ce7-42eb-b58f-449ef1e00f11.png)
+
+![image](https://user-images.githubusercontent.com/85134094/133108735-688149cf-7783-4de0-9e17-e451e49eb5c8.png)
 
 **4.RESPUESTAS A INTERROGANTES**
 
