@@ -42,11 +42,14 @@ Objetivos específicoso
 Los fasores son vectores rotatorios, cuya magnitud en el eje vertical se usa para representar las cantidades que varían en forma sinusoidal; los fasores giran a velocidad angular de w rad/s de forma anti horaria, para lo cual tenemos α=wt y su proyección vertical V_m senωt, si se designa esta proyección como altura se obtiene 〖v=V〗_m senωt
  
 
-Onda seno desplazadas
+**Onda seno desplazadas**
+
 Los fasores se usan para representar las formas de onda desplazadas. 
 (Robbins & Miller, n.d.), 
-Diferencia de fase
+**Diferencia de fase**
+
 Se refiere al desplazamiento angular entre diferentes ondas con la misma frecuencia, si el desplazamiento angular es 0°, la forma de la onda esta en fSase, caso contrario estas estarían fuera de fase, estas pueden estar: adelantadas, atrasadas o en fase con respecto a la referencia.
+
 Algunas veces los voltajes y las corrientes se expresan en términos de cos wt en lugar de sen wt, en lo que se diferencian es que las ondas se encuentran desplazadas 90°
 
 
