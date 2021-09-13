@@ -117,7 +117,7 @@ https://youtu.be/6kpNhc2yOik
 
 **6 CONCLUSIONES** 
 
-
+* Es importante tener conocimientos previos sobre fasores, para poder realizar los procesos aritméticos de manera correcta.
 
 
 **7 BIBLIOGRAFÍAS**
