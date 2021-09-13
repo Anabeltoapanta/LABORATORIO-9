@@ -26,34 +26,21 @@ Ing. Darwin Omar Alulema Flores
 
 **1 OBJETIVOS**
 
+
+
 Objetivo general
 
-* Formular los procesos solicitados en el laboratorio utilizando los procesos aritméticos aprendidos en clase, mediante lo investigado sobre los fasores en forma polar y rectangular.
+
 
 Objetivos específicoso
 
+* Transformar de coordenadas polares a rectangulares y viceversa
 
-
+* Identificar en el plano las coordenadas polares y rectangulares
 
 
 **2.MARCO TEÓRICO**
 
-
-Los fasores son vectores rotatorios, cuya magnitud en el eje vertical se usa para representar las cantidades que varían en forma sinusoidal; los fasores giran a velocidad angular de w rad/s de forma anti horaria, para lo cual tenemos α=wt y su proyección vertical V_m senωt, si se designa esta proyección como altura se obtiene 〖v=V〗_m senωt
- 
-
-**Onda seno desplazadas**
-
-Los fasores se usan para representar las formas de onda desplazadas. 
-(Robbins & Miller, n.d.), 
-**Diferencia de fase**
-
-Se refiere al desplazamiento angular entre diferentes ondas con la misma frecuencia, si el desplazamiento angular es 0°, la forma de la onda esta en fSase, caso contrario estas estarían fuera de fase, estas pueden estar: adelantadas, atrasadas o en fase con respecto a la referencia.
-
-Algunas veces los voltajes y las corrientes se expresan en términos de cos wt en lugar de sen wt, en lo que se diferencian es que las ondas se encuentran desplazadas 90°
-
-
-![](https://github.com/Anabeltoapanta/LABORATORIO-9/blob/main/Fasores.jpeg)
 
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
@@ -123,6 +110,13 @@ d)	45 | -117.9° =
 4.3.Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
 
+![image](https://user-images.githubusercontent.com/85134094/133104073-1465bfbb-0ab4-4885-ad04-b744c60582f0.png)
+
+![image](https://user-images.githubusercontent.com/85134094/133104132-ae67c6f6-72b7-41f3-9565-b342a4ef1397.png)
+
+![image](https://user-images.githubusercontent.com/85134094/133105108-28a1954e-f4d5-4a3b-ad51-b9482967ee73.png)
+
+
 4.4.Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
 
@@ -132,9 +126,10 @@ https://youtu.be/6kpNhc2yOik
 
 **6 CONCLUSIONES** 
 
-* Es importante tener conocimientos previos sobre fasores, para poder realizar los procesos aritméticos de manera correcta.
+* Las operaciones se realizan con mucha facilidad cuando trabajamos con Coordenadas polares
+
+* Para realizar la sumatoria de coordenadas es obligatorio primero transformar a coordenadas rectangulares
 
 
 **7 BIBLIOGRAFÍAS**
 
-Robbins, A. H., & Miller, W. C. (n.d.). Análisis de ciruitos, Teoria y practica (S. R. C. González (ed.); 4th ed.). http://latinoamerica.cengage.com
